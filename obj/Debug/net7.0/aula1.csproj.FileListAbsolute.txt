@@ -1,0 +1,15 @@
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\bin\Debug\net7.0\aula1.exe
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\bin\Debug\net7.0\aula1.deps.json
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\bin\Debug\net7.0\aula1.runtimeconfig.json
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\bin\Debug\net7.0\aula1.dll
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\bin\Debug\net7.0\aula1.pdb
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\obj\Debug\net7.0\aula1.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\obj\Debug\net7.0\aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\obj\Debug\net7.0\aula1.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\obj\Debug\net7.0\aula1.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\obj\Debug\net7.0\aula1.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\obj\Debug\net7.0\aula1.dll
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\obj\Debug\net7.0\refint\aula1.dll
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\obj\Debug\net7.0\aula1.pdb
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\obj\Debug\net7.0\aula1.genruntimeconfig.cache
+C:\Users\Eduardo\source\repos\FiapCSharp\aula1\obj\Debug\net7.0\ref\aula1.dll
